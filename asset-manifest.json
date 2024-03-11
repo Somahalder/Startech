@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Startech/static/css/main.13eb636f.css",
+    "main.js": "/Startech/static/js/main.6a8c19df.js",
+    "static/media/img-6.jpg": "/Startech/static/media/img-6.853983afd89edf7fef9d.jpg",
+    "static/media/office1.jpg": "/Startech/static/media/office1.062cd80795b0a532608d.jpg",
+    "static/media/img0.jpg": "/Startech/static/media/img0.3f4688735bda2db85954.jpg",
+    "static/media/one.jpg": "/Startech/static/media/one.2e6ae12f409aa8348ff6.jpg",
+    "index.html": "/Startech/index.html",
+    "main.13eb636f.css.map": "/Startech/static/css/main.13eb636f.css.map",
+    "main.6a8c19df.js.map": "/Startech/static/js/main.6a8c19df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13eb636f.css",
+    "static/js/main.6a8c19df.js"
+  ]
+}
